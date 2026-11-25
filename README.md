@@ -2,6 +2,14 @@
 
 Proyecto de **Análisis y Visualización de Datos** de la Universidad Nacional de Colombia. Explora cómo se distribuyeron las acciones bélicas registradas por el Observatorio de Memoria y Conflicto, y qué limitaciones tienen esos registros al analizar patrones históricos.
 
+## Cuaderno técnico
+
+[Ver la implementación del análisis del conflicto](tecnico/analisis_conflicto.ipynb). Incluye limpieza, V de Cramér, regresión logística, pruebas no paramétricas y coropléticos. El cuaderno conserva resultados históricos y explica cómo leer el ajuste exploratorio.
+
+[Abrir el resumen reproducible](analisis.ipynb).
+
+Para probar las celdas, abre el cuaderno en Jupyter con un kernel de Python. El cuaderno documenta los insumos del análisis original.
+
 ## Hallazgos del corte estudiado
 
 - El archivo descargado el **9 de febrero de 2026** contenía **38.333 registros**. De ellos, 37.212 tenían una fecha completa válida y 220 carecían de un año utilizable.
