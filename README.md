@@ -2,19 +2,10 @@
 
 Proyecto de **Análisis y Visualización de Datos** de la Universidad Nacional de Colombia. Explora cómo se distribuyeron las acciones bélicas registradas por el Observatorio de Memoria y Conflicto, y qué limitaciones tienen esos registros al analizar patrones históricos.
 
-## Entregas finales
+## Cuadernos
 
-- [Acciones bélicas en Colombia](entregas/acciones_belicas_final.ipynb)
-
-Cada cuaderno reúne las fases de la entrega académica, con el código y una selección de resultados agregados.
-
-## Cuaderno técnico
-
-[Ver la implementación del análisis del conflicto](tecnico/analisis_conflicto.ipynb). Incluye limpieza, V de Cramér, regresión logística, pruebas no paramétricas y coropléticos. El cuaderno conserva resultados históricos y explica cómo leer el ajuste exploratorio.
-
-[Abrir el resumen reproducible](analisis.ipynb).
-
-Para probar las celdas, abre el cuaderno en Jupyter con un kernel de Python. El cuaderno documenta los insumos del análisis original.
+- [Entrega final](entregas/acciones_belicas_final.ipynb) · depuración de registros, análisis territorial, regresión logística, pruebas no paramétricas y mapas.
+- [Resumen reproducible](analisis.ipynb) · tablas y gráficos que se pueden ejecutar con los datos agregados incluidos.
 
 ## Hallazgos del corte estudiado
 
